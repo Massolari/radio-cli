@@ -2,6 +2,8 @@
 
 A terminal-based radio player written in Haskell using the [brick](https://github.com/jtdaugherty/brick) library. It uses VLC to play audio streams.
 
+<img width="858" height="167" alt="image" src="https://github.com/user-attachments/assets/e33e3a70-6d7c-4c0f-8733-df009986be3d" />
+
 ## Features
 
 - TUI interface for browsing and playing radio stations
