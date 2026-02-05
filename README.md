@@ -15,9 +15,17 @@ A terminal-based radio player written in Haskell using the [brick](https://githu
 ## Prerequisites
 
 - **VLC Media Player**: This application requires VLC to be installed on your system, as it uses the `cvlc` command for playback.
-- **Haskell Toolchain**: `cabal` (or `stack`) to build the project.
+- **Haskell Toolchain**: Required only if you intend to build from source.
 
-## Installation & Build
+## Installation
+
+You can download pre-compiled binaries for **Linux**, **macOS**, and **Windows** from the [Releases](../../releases) page.
+
+1. Download the binary for your operating system.
+2. (Linux/macOS) Make the file executable: `chmod +x radio-cli`
+3. Run the application!
+
+## Build from Source
 
 Clone the repository and build using cabal:
 
